@@ -1,0 +1,217 @@
+
+#TopNav{height: 50px; }
+#TopNav div{height: 100%;}
+#TopNews{height: 450px; background: black;}
+#TopNews>a>div{height: 100%; padding: 0;}
+#OtherNews{  }
+#OtherNews>div{  padding: 0;}
+#SpecFooter{height: 50px;}
+#SpecFooter div{height: 100%;}
+.NavBarColors{z-index: 2000;}
+body {
+    padding-top: 50px;
+    background-color:black;
+     
+}  .NavBarLinks{
+    margin-left: 50px;
+    
+}
+ .NavBarLinksSm{
+    margin-left: 0;
+    
+}
+.NavBarLinks>li>a{
+   padding-left: 25px;
+   padding-right: 25px;
+    color: #EEEEEE !important;
+padding-bottom: 15px;
+}
+
+    .NavBarLinks>li>a:hover{
+
+color: white !important;
+border-bottom:  3px solid lightsalmon;
+padding-bottom: 12px;
+  }
+  
+  
+  .NavBarLinksSm>li>a{
+   padding-left: 25px;
+   padding-right: 25px;
+    color: #EEEEEE !important;
+padding-bottom: 15px;
+}
+
+  .NavBarLinksSm>li>a:hover{
+
+color: white !important;
+border-left:  3px solid lightsalmon;
+  }
+  
+  
+    .NavBarLinkDiv{
+
+font-weight: bold;
+font-size: 14px;
+border: none !important;
+float:   left;
+padding-left: 10px;
+  }
+  #OtherNewsBar{
+      border: none;
+  }
+    #OtherNewsBarList>li>a{
+padding-top: 9px;
+padding-bottom: 9px;
+font-weight: bold;
+color: whitesmoke;
+  }
+      #OtherNewsBarList>li>a:hover{
+border-bottom: 2px solid  #F2F2F2;
+  }
+    /*  .OtherNewsFilter a:hover{
+padding-top: 8px;
+padding-bottom: 12px;
+color: black;;
+
+  }
+  .OtherNewsFilter {
+      padding-left: 90px;
+      
+  }
+  .OtherNewsContainer{
+      background-color:#4DBD33;
+      height: 40px;
+      padding: 0;
+      box-shadow: 0 7px 15px rgba(0, 0, 0, 0.7);
+      z-index: 100;
+  }*/
+    .NavBarColors{
+background-color: #0198E1;
+box-shadow: 0 7px 15px rgba(0, 0, 0, 0.7);
+border: none;
+  } 
+  .Logo{
+max-height: 50px;
+  }
+  
+.MainNews{
+background-color:gray; 
+background-repeat: no-repeat;
+background-size:cover;
+padding: 0;
+}
+.MainNews:hover {
+
+ -webkit-transform: scale(0.95);
+ -ms-transform: scale(0.95);
+   transform: scale(0.95);
+
+}
+.BigNewsHeader{
+height: 100px;
+width: 100%;
+bottom:0;
+position: absolute;
+
+background: -webkit-linear-gradient(left, rgba(255,0,0,0), rgba(255,0,0,1)); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(bottom, rgba(255,0,0,0), rgba(0,0,0,1)); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(bottom, rgba(255,0,0,0), rgba(0,0,0,1)); /* For Firefox 3.6 to 15 */
+background: linear-gradient(to bottom, rgba(255,0,0,0), rgba(0,0,0,1)); /* Standard syntax (must be last) */
+
+
+
+}
+.BigNewsHeader h1{
+    color:whitesmoke;
+    text-align:left;
+       position:absolute;
+    bottom:50px;
+    padding-right:8px;
+    left:40px;
+}   
+.BigNewsHeader h5{
+    color:whitesmoke;
+    text-align:left;
+       position:absolute;
+    bottom:10px;
+    left:40px;
+}
+.BigNewsHeader h6{
+    color:whitesmoke;
+    text-align:left;
+       position:absolute;
+    bottom:10px;
+    right:40px;
+}
+.MainNewsImg1 {
+ background-image: url('../Images/bose-revolve-plus-carried.jpg');
+
+}
+.MainNewsImg2 {
+ background-image: url('../Images/sony-a9-16.jpg');
+
+}
+.MainNewsImg3 {
+ background-image: url('../Images/zelda-cnet-2.jpg');
+
+}
+
+ .StreamNewsIconContainer{ 
+     position: relative;
+  top: 45%;
+  -webkit-transform: translateY(-40%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+ }
+ .StreamNewsTitleContainer{height: 100%; position: relative; padding-top: 15px;}
+ .StreamNewsTitle{margin-top: 5px;}
+ .StreamNewsTitle:hover{margin-top: 5px; color: orangered;cursor: pointer; }
+ .StreamNewsDateContainer{ bottom:0px; position: absolute;  padding-bottom: 15px;}
+ .StreamNewsDate{
+     color: #888;
+     font-size: 12px;
+     font-weight: 600; 
+ }
+  .StreamNewsDate:hover{ color: #444; cursor: pointer;}
+ .StreamNewsIcon{
+     width: 40px;height: auto;
+     vertical-align: central;
+ }
+ .helperAlign {
+    display: inline-block;
+ 
+    vertical-align: middle;
+}
+
+.StreamNews {
+  margin: 0;
+  border:none;    
+  height: 200px;
+  border-radius: 10px;
+}
+
+.StreamNews:hover {
+  background-color:#F2F2F2;
+  
+}
+.StreamGroup {
+  padding-top: 15px;
+}
+.StreamNewsImg>img{
+    max-height: 180px;
+     max-width: 400px;
+    cursor: pointer;
+     vertical-align: middle;
+}
+.StreamNewsImg{
+white-space: nowrap;
+    margin: 1em 0;
+    text-align: center;
+    
+}
+.StreamNewsImg img{
+    height: auto;
+    width: 100%;
+    
+}

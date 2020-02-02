@@ -1,0 +1,24 @@
+
+
+
+
+.RelatedArticleContainer img{
+
+width: 90%;
+height: auto;
+}
+
+.RelatedNewsElements{
+     float: right;
+     width: 90%;
+     margin-bottom: 30px;
+}
+
+.RelatedNewsElements>div>h4:hover{
+  color: orange;
+  cursor:  pointer;
+}
+
+.RelatedNewsElements>div>img:hover{
+  cursor:  pointer;
+}

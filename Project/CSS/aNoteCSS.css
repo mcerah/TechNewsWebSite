@@ -1,0 +1,7 @@
+.textBox{
+    box-shadow: 4px 0px 5px #BBB;
+    width: 90%;
+    margin-bottom: 15px;
+    padding: 5px;
+    border-width: thin;
+}

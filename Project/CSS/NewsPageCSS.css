@@ -1,0 +1,57 @@
+
+
+#NewsModal{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    margin-top: 50px;
+}
+.ModelContainer{
+    height: 100%;
+    width: 100%;
+       margin: 0;  
+}
+.ModelContentSpec{
+    height: 100%;
+    margin: 0;  
+}
+.NewsPageButtons{
+    display: block;
+  position: fixed;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+  display: block;
+  position: fixed;
+    left: 15px;
+ 
+}
+
+#GoTopNewsButon{
+
+  bottom:50px;
+padding-right:  20px;
+}
+
+#GoTopNewsButon:hover {
+  background-color: #555;
+}
+
+#CloseNewsButton{
+
+  bottom:105px;
+
+
+}
+
+#CloseNewsButton:hover {
+  background-color: #555;
+}
+
+
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/PhpProject1/CSS/NewsPageCSS.css</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/NewsPage.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Models/GetNewsByIDModel.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/HomePage.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/aNote.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Core/IModel.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/NewsTags.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/CSS/HomePage.css</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/RelatedNews.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Controllers/Index.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/anArticle.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/JavaScript/aNote.js</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Core/Loader.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Models/Index.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/CSS/RelatedNewsCSS.css</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/JavaScript/HomePageView.js</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/index.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/NewsSources.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/NewsStream.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/NewsComments.php</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/CSS/aNoteCSS.css</file>
+            <file>file:/C:/xampp/htdocs/PhpProject1/Views/ShowcaseNews.php</file>
+        </group>
+    </open-files>
+</project-private>
